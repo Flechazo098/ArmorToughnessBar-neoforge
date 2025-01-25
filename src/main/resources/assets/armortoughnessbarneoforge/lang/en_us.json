@@ -1,0 +1,6 @@
+{
+  "armortoughnessbarneoforge.config.enabled": "Enable Armor Toughness Bar",
+  "armortoughnessbarneoforge.config.offset_x": "X Offset",
+  "armortoughnessbarneoforge.config.offset_y": "Y Offset",
+  "armortoughnessbarneoforge.config.enable_color_change": "Enable Color Change"
+}
