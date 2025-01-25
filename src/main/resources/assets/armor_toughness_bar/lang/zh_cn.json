@@ -1,0 +1,12 @@
+{
+  "modmenu.nameTranslation.armor_toughness_bar": "盔甲韧性条",
+  "modmenu.descriptionTranslation.armor_toughness_bar": "这个模组在饥饿条上面添加了一个盔甲韧性条。",
+  "modmenu.summaryTranslation.armor_toughness_bar": "这个模组在饥饿条上面添加了一个盔甲韧性条。",
+
+  "text.autoconfig.armor_toughness_bar.title": "盔甲韧性条",
+  "text.autoconfig.armor_toughness_bar.option.enabled": "是否启用韧性条",
+  "text.autoconfig.armor_toughness_bar.option.offsetX": "韧性条的 X 轴偏移量",
+  "text.autoconfig.armor_toughness_bar.option.offsetY": "韧性条的 Y 轴偏移量",
+  "text.autoconfig.armor_toughness_bar.option.enableColorChange": "是否启用超过20点韧性值颜色变化",
+  "text.autoconfig.armor_toughness_bar.option.hasCheckedAttributeFix": "是否已经检测过属性修复模组"
+}

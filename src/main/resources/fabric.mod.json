@@ -1,0 +1,35 @@
+{
+  "schemaVersion": 1,
+  "id": "armor_toughness_bar",
+  "version": "${version}",
+  "name": "Armor Toughness Bar",
+  "description": "This mod adds an armor toughness bar on top of the hunger bar.",
+  "authors": [
+    "TianBen!"
+  ],
+  "contact": {
+  },
+  "icon": "assets/armor_toughness_bar/icon.png",
+  "environment": "client",
+  "entrypoints": {
+    "client": [
+      "net.tianben.armor_toughness_bar.ArmorToughnessBarMod"
+    ],
+    "modmenu": [
+      "net.tianben.armor_toughness_bar.modmenu.ArmorToughnessBarModMenuIntegration"
+    ]
+  },
+  "mixins": [
+    "armor_toughness_bar.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=0.15.11",
+    "minecraft": ">=1.20",
+    "java": ">=17",
+    "fabric-api": "*",
+    "cloth-config": ">=11.0.0"
+  },
+  "suggests": {
+    "modmenu": ">=7.0.0"
+  }
+}

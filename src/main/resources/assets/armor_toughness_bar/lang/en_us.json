@@ -1,0 +1,12 @@
+{
+  "modmenu.nameTranslation.armor_toughness_bar": "Armor Toughness Bar",
+  "modmenu.descriptionTranslation.armor_toughness_bar": "This mod adds an armor toughness bar on top of the hunger bar.",
+  "modmenu.summaryTranslation.armor_toughness_bar": "This mod adds an armor toughness bar on top of the hunger bar.",
+
+  "text.autoconfig.armor_toughness_bar.title": "Armor Toughness Bar",
+  "text.autoconfig.armor_toughness_bar.option.enabled": "Whether to enable the toughness bar",
+  "text.autoconfig.armor_toughness_bar.option.offsetX": "The X-axis offset of the toughness bar",
+  "text.autoconfig.armor_toughness_bar.option.offsetY": "The Y-axis offset of the toughness bar",
+  "text.autoconfig.armor_toughness_bar.option.enableColorChange": "Whether to enable color change over 20 toughness bar",
+  "text.autoconfig.armor_toughness_bar.option.hasCheckedAttributeFix": "Whether the AttributeFix has been checked"
+}
